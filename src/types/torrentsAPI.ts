@@ -1,7 +1,7 @@
 export interface GetTorrentListOptions {
   filter?: string[];
   category?: string[];
-  tag?: string[];
+  tags?: string[];
   sort?: string;
   reverse?: boolean;
   limit?: number;
