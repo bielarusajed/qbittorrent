@@ -39,6 +39,9 @@ enum APINames {
   search = 'search',
 }
 
+/**
+ * Error thrown when a request to the qBittorrent API fails.
+ */
 export class RequestError extends Error {
   code: number;
   constructor(code: number, message: string) {
@@ -49,6 +52,9 @@ export class RequestError extends Error {
   }
 }
 
+/**
+ * qBittorrent API wrapper.
+ */
 class QBittorrent {
   url: string;
   authCookie?: string;
