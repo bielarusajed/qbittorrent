@@ -1,7 +1,7 @@
 {
   "name": "qbittorrent",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A library to work with qBittorrent WebUI API v2",
   "license": "ISC",
   "author": "Aliaksiej Razumaŭ <bielarusajed@gmail.com> (https://bielarusajed.gay)",

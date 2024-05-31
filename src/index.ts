@@ -986,3 +986,4 @@ class QBittorrent {
 }
 
 export default QBittorrent;
+export * from './types';
