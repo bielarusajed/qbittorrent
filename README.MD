@@ -4,7 +4,12 @@ This is a library to work with qBittorrent WebUI API v2. It provides a TypeScrip
 
 ## Installation
 
-IDK. Don't use it at all. Probably won't be published to npm. Probably won't be maintained properly. Made for personal use.
+> [!CAUTION]
+> This package was made for the one-time use and probably won't be maintained properly, if the API updates.
+> It was tested with qBittorrent v4.6.5 (API version v2.9.3) — the latest version at the moment, it was created.
+> There are no guarantees, that it will perfectly work, even with a tested API version. THERE ARE NO PROPER TESTS AT ALL.
+
+You can install it from JSR: [@bielarusajed/qbittorrent](https://jsr.io/@bielarusajed/qbittorrent)
 
 ## Usage
 
